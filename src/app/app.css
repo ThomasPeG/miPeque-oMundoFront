@@ -65,13 +65,13 @@ section {
 #inicio::before {
   top: 0;
   left: 0;
-  background: rgba(255, 182, 193, 0.35); 
+  background: rgba(255, 182, 193, 0.80); 
 }
 
 #inicio::after {
   bottom: 0;
   right: 0;
-  background: rgba(255, 204, 170, 0.35); 
+  background: rgba(255, 204, 170, 0.80); 
 } */
 
 /* 2. SOBRE NOSOTROS — Durazno → Amarillo */
@@ -89,13 +89,13 @@ section {
 #sobre-nosotros::before {
   top: 0;
   right: 0;
-  background: rgba(255, 170, 244, 0.35); /* Durazno */
+  background: rgba(255, 170, 244, 0.80); /* Durazno */
 }
 
 #sobre-nosotros::after {
   bottom: 0;
   left: 0;
-  background: rgba(255, 245, 157, 0.35); /* Amarillo pastel */
+  background: rgba(255, 245, 157, 0.80); /* Amarillo pastel */
 }
 
 /* 3. POR QUÉ ELEGIRNOS — Amarillo → Verde menta */
@@ -113,13 +113,13 @@ section {
 #por-que-elegirnos::before {
   top: 0;
   left: 0;
-  background: rgba(255, 245, 157, 0.35); /* Amarillo */
+  background: rgba(255, 245, 157, 0.80); /* Amarillo */
 }
 
 #por-que-elegirnos::after {
   bottom: 0;
   right: 0;
-  background: rgba(178, 255, 210, 0.35); /* Verde menta */
+  background: rgba(178, 255, 210, 0.80); /* Verde menta */
 }
 
 /* 4. CATÁLOGO — Verde menta → Celeste */
@@ -137,13 +137,13 @@ section {
 #catalogo::before {
   top: 0;
   right: 0;
-  background: rgba(178, 255, 210, 0.35); /* Verde menta */
+  background: rgba(178, 255, 210, 0.80); /* Verde menta */
 }
 
 #catalogo::after {
   bottom: 0;
   left: 0;
-  background: rgba(173, 216, 230, 0.35); /* Celeste pastel */
+  background: rgba(173, 216, 230, 0.80); /* Celeste pastel */
 }
 
 /* 5. TESTIMONIOS — Celeste → Lavanda */
@@ -161,13 +161,13 @@ section {
 #testimonios::before {
   top: 0;
   left: 0;
-  background: rgba(173, 216, 230, 0.35); /* Celeste */
+  background: rgba(173, 216, 230, 0.80); /* Celeste */
 }
 
 #testimonios::after {
   bottom: 0;
   right: 0;
-  background: rgba(221, 160, 221, 0.35); /* Lavanda */
+  background: rgba(221, 160, 221, 0.80); /* Lavanda */
 }
 
 /* 6. CONTACTO — Lavanda → Rosa (cierra ciclo) */
@@ -185,13 +185,13 @@ section {
 #contacto::before {
   top: 0;
   right: 0;
-  background: rgba(221, 160, 221, 0.35); /* Lavanda */
+  background: rgba(221, 160, 221, 0.80); /* Lavanda */
 }
 
 #contacto::after {
   bottom: 0;
   left: 0;
-  background: rgba(255, 182, 193, 0.35); /* Rosa pastel */
+  background: rgba(255, 182, 193, 0.80); /* Rosa pastel */
 }
 /* --------------------------------------------- */
 /*   FOOTER — Sombras internas pastel premium    */
@@ -220,14 +220,14 @@ section {
 #footer::before {
   top: -40px;
   left: -40px;
-  background: rgba(255, 182, 193, 0.26); /* Rosa pastel */
+  background: rgba(255, 182, 193, 0.80); /* Rosa pastel */
 }
 
 /* Luz celeste suave (inferior derecha) */
 #footer::after {
   bottom: -40px;
   right: -40px;
-  background: rgba(173, 216, 230, 0.24); /* Celeste pastel */
+  background: rgba(173, 216, 230, 0.80); /* Celeste pastel */
 }
 
 /* -------------------------------------------------- */
