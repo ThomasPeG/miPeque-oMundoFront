@@ -22,7 +22,10 @@
               }
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/swiper/swiper.css",
+              "node_modules/swiper/modules/navigation.css",
+              "node_modules/swiper/modules/pagination.css"
             ]
           },
           "configurations": {
@@ -75,11 +78,14 @@
               }
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/swiper/swiper.css",
+              "node_modules/swiper/modules/navigation.css",
+              "node_modules/swiper/modules/pagination.css"
             ]
-          }
-        }
       }
     }
   }
+}
+}
 }
